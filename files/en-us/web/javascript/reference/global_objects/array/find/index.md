@@ -79,7 +79,7 @@ console.log(inventory.find(isCherries));
 // { name: 'cherries', quantity: 5 }
 ```
 
-#### Using arrow function and destructuring
+### Using arrow function and destructuring
 
 ```js
 const inventory = [
